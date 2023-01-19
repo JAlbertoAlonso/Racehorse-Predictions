@@ -11,7 +11,7 @@ Notebook format.<br><br>
 - Pandas<br>
 - Matplotlib<br>
 - Seaborn<br>
-- Sklearn<br>
+- Sklearn<br><br>
 **Author:** Jose Alberto Alonso Gonzalez <br>
 Free licence on data.<br>
 **Finished project**
