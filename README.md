@@ -14,6 +14,6 @@ Notebook format.<br><br>
 - Seaborn<br>
 - Sklearn<br>
 <br>
-**Author:** Jose Alberto Alonso Gonzalez <br>
+**Author:** Jose Alberto Alonso Gonzalez <br>**Python 3**
 Free licence on data.<br>
 **Finished project**
